@@ -21,3 +21,7 @@ __meta__ = {
 position = Vector2( 0.751038, 0.250343 )
 texture = ExtResource( 2 )
 hframes = 60
+
+[node name="Bush2" type="Sprite" parent="."]
+position = Vector2( 24.7341, 73.919 )
+texture = ExtResource( 1 )
